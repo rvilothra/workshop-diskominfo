@@ -366,7 +366,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Untuk pertanyaan atau bantuan:
 
-- Email: support@example.com
+- Email: support@dpmptspbogorkab.go.id
 - WhatsApp: +62xxx-xxxx-xxxx
 - GitHub Issues: [Create Issue](https://github.com/username/repo/issues)
 
